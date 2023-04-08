@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebad Arshad</h1>
 <h3 align="center">MERN Stack Developer • React Native • JavaScript</h3>
 
-- 🌱 I’m currently learning **NextJS,Typescript**
-
 - 💬 Ask me about **React, React Native, JavaScript, MongoDB, NodeJS, ExpressJS, Firebase, MERN, Server-less**
 
 - 📫 How to reach me **m.ebadarshad2003@gmail.com**
