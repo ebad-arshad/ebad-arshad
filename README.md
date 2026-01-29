@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ebad Arshad  
-## 🚀 DevOps Engineer | Docker | Jenkins | Kubernetes | CI/CD | Cloud Automation  
+## 🚀 DevOps Engineer | Kubernetes | CI/CD | IaC | Cloud Automation | Scripting  
 
 Welcome to my GitHub! I'm passionate about **DevOps**, **automation**, and **cloud-native systems**.  
 I love building scalable pipelines and automating everything from code to deployment ☁️  
