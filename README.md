@@ -8,9 +8,8 @@ I love building scalable pipelines and automating everything from code to deploy
 
 ### 💫 About Me  
 - 🧠 Passionate about building automated and scalable systems  
-- 🧰 Experienced with **CI/CD pipelines**, **containerization**, and **Kubernetes orchestration**  
+- 🧰 Experienced with **CI/CD pipelines**, **Containerization**, **Orchestration**, **IaC (Terraform)**, **Cloud (AWS)**  
 - ☸️ I turn complex deployments into simple automated flows  
-- 🔭 Currently learning **Terraform**, **AWS**, and **GitOps (ArgoCD)**  
 - ⚡ Fun fact: I automate my weekend projects too 😄  
 
 ---
