@@ -53,7 +53,6 @@ Internship project at CodeChine — practical DevOps implementation in a real te
 
 ## GitHub Stats
 
-![Ebad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebad-arshad&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebad-arshad&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebad-arshad&theme=tokyonight&hide_border=false)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebad-arshad&theme=react-dark&hide_border=false)
