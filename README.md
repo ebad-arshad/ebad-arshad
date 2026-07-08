@@ -1,6 +1,6 @@
 # Hi, I'm Ebad Arshad 👋
 
-**DevOps Intern @ CodeChine · Kubernetes · CI/CD · IaC · Cloud Automation**
+**DevOps Engineer · Kubernetes · CI/CD · IaC · Cloud Automation**
 
 I'm passionate about building scalable, automated infrastructure and turning complex deployments into clean, repeatable workflows. If I do something twice, I script it.
 
