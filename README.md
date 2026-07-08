@@ -8,7 +8,7 @@ I'm passionate about building scalable, automated infrastructure and turning com
 
 ## About Me
 
-- 🔧 Currently working as a **DevOps Intern at CodeChine**
+- 🔧 Recently completed internship as a **DevOps Intern at CodeChine**
 - ☸️ Deep experience with **Kubernetes**, **CI/CD pipelines**, and **GitOps** workflows
 - 🏗️ Building production-grade systems with **Terraform**, **Ansible**, and **AWS**
 - 🔐 Exploring **Vault** and secrets management in cloud-native environments
